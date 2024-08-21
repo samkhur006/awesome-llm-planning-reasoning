@@ -93,7 +93,7 @@ Whether you're a researcher, developer, or enthusiast, this repository serves as
 | Paper | Link | Code | Venue | Date | Other |
 |-------|------|------|-------|------|-------|
 | Benchmarks for Automated Commonsense Reasoning: A Survey  | [arXiv](https://arxiv.org/pdf/2302.04752)| -- | arXiv | 22 Feb 2023 | |
-| PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change | [NeurIps](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a92bcdede88c7afd108072faf5485c8-Paper-Datasets_and_Benchmarks.pdf) | [GitHub](https://github.com/karthikv792/LLMs-Planning?utm_source=catalyzex.com) | NeurIPS 23 Track on Datasets and Benchmarks | 23 Nov 2023 |  |
+| PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change | [arXiv](https://arxiv.org/pdf/2206.10498) | [GitHub](https://github.com/karthikv792/LLMs-Planning?utm_source=catalyzex.com) | NeurIPS 23 Track on Datasets and Benchmarks | 23 Nov 2023 |  |
 | Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena  | [arXiv](https://arxiv.org/pdf/2310.05746)| [GitHub](https://github.com/jiangjiechen/auction-arena) | arXiv | 3 Apr 2024  | [Project](https://auction-arena.github.io/) |
 | WebArena: A Realistic Web Environment for Building Autonomous Agents  | [arXiv](https://arxiv.org/pdf/2307.13854)| [GitHub](https://github.com/web-arena-x/webarena) | NeurIPS 23 Workshop | 16 Apr 2024 | [Project](https://webarena.dev/) |
 | Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning  | [arXiv](https://arxiv.org/pdf/2406.09170v1)| -- | arXiv | 3 Jun 2024 | [HuggingFace](https://huggingface.co/datasets/baharef/ToT) |
@@ -120,7 +120,7 @@ Whether you're a researcher, developer, or enthusiast, this repository serves as
 
 ## Additional Resources
 
-| Paper | Link |
+| Resource | Link |
 |-------|------|
 | Yochan Tutorials on Large Language Models and Planning | [link](https://yochan-lab.github.io/tutorial/LLMs-Planning/index.html) 
 | On The Capabilities and Risks of Large Language Models | [link](https://jeffhj.github.io/files/dissertation.pdf) 
