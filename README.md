@@ -124,7 +124,7 @@ Whether you're a researcher, developer, or enthusiast, this repository serves as
 |-------|------|
 | Yochan Tutorials on Large Language Models and Planning | [link](https://yochan-lab.github.io/tutorial/LLMs-Planning/index.html) 
 | On The Capabilities and Risks of Large Language Models | [link](https://jeffhj.github.io/files/dissertation.pdf) 
-| Advanced Topics in Machine Learning | [link](https://sites.google.com/view/cs-159-2024/home?authuser=0)
+| Large Language Models for Reasoning | [link](https://sites.google.com/view/cs-159-2024/home?authuser=0)
 
 
 ## Acknowledgement
