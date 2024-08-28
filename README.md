@@ -49,12 +49,15 @@ Whether you're a researcher, developer, or enthusiast, this repository serves as
 | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models  | [arXiv](https://arxiv.org/pdf/2201.11903) | -- | NeurIPS 22 | 28 Jan 2022  | [Video](https://www.youtube.com/watch?v=NBIRzSGHFro) |
 | Self-Consistency Improves Chain of Thought Reasoning in Language Models | [arXiv](https://arxiv.org/pdf/2203.11171) | -- | ICLR 23 | 7 Mar 2023 | [Video](https://www.youtube.com/watch?v=XKY2ThptBWs) |
 | REACT: Synergizing Reasoning and Acting in Language Models  | [arXiv](https://arxiv.org/pdf/2210.03629) | [GitHub](https://github.com/ysymyth/ReAct) | ICLR 23 | 10 Mar 2023 | [Project](https://react-lm.github.io/) [Video](https://www.youtube.com/watch?v=QX-p-vsDoiQ) |
+| LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models  | [arXiv](https://arxiv.org/pdf/2212.04088) | [GitHub](https://github.com/OSU-NLP-Group/LLM-Planner/) | ICCV 23 | 30 Mar 2023 | [Project](https://dki-lab.github.io/LLM-Planner/)  |
 | Least-To-Most Prompting Enables Complex Reasoning In Large Language Models  | [arXiv](https://arxiv.org/pdf/2205.10625) | -- | ICLR 23 | 16 Apr 2023 |  |
 | Chain-of-Symbol Prompting Elicits Planning in Large Language Models  | [arXiv](https://arxiv.org/pdf/2305.10276) | [GitHub](https://github.com/hanxuhu/chain-of-symbol-planning) | ICLR 24 | 17 May 2023 |   |
+| PlaSma: Procedural Knowledge Models for Language based Planning and Re-Planning  | [arXiv](https://arxiv.org/pdf/2305.19472) | [GitHub](https://github.com/allenai/PlaSma) | ICLR 24 | 26 Jul 2023 |   |
 | Better Zero-Shot Reasoning with Role-Play Prompting  | [arXiv](https://arxiv.org/pdf/2308.07702) | [GitHub](https://github.com/NKU-HLT/Role-Play-Prompting) | NAACL 24 | 15 Aug 2023 |  |
 | LLM+P: Empowering Large Language Models with Optimal Planning Proficiency  | [arXiv](https://arxiv.org/pdf/2304.11477) |  [GitHub](https://github.com/Cranial-XIX/llm-pddl)  | arXiv | 27 Sep 2023 |  |
 | Reasoning with Language Model is Planning with World Model | [arXiv](https://arxiv.org/pdf/2305.14992) | [GitHub](https://github.com/Ber666/RAP) | EMNLP 23 | 23 Oct 2023  | |
-| Large Language Models as Commonsense Knowledge for Large-Scale Task Planning  | [arXiv](https://arxiv.org/abs/2305.14078) |  [GitHub](https://github.com/1989Ryan/llm-mcts)  | NeurIPS 23 | 30 Oct 2023 | [Project](https://llm-mcts.github.io) |
+| Large Language Models as Commonsense Knowledge for Large-Scale Task Planning  | [arXiv](https://arxiv.org/pdf/2305.14078) |  [GitHub](https://github.com/1989Ryan/llm-mcts)  | NeurIPS 23 | 30 Oct 2023 | [Project](https://llm-mcts.github.io) |
+| PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization | [arXiv](https://arxiv.org/pdf/2310.16427) | [GitHub](https://github.com/XinyuanWangCS/PromptAgent) | ICLR 24 | 7 Dec 2023 | |
 | Tree of Thoughts: Deliberate Problem Solving with Large Language Models | [arXiv](https://arxiv.org/pdf/2305.10601) | [GitHub](https://github.com/princeton-nlp/tree-of-thought-llm) | NeurIPS 23 | 3 Dec 2023 | [Video](https://www.youtube.com/watch?v=ut5kp56wW_4) |
 | Learning adaptive planning representations with natural language guidance  | [arXiv](https://arxiv.org/pdf/2312.08566) | -- | arXiv |  13 Dec 2023  |  |
 | The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction  | [arXiv](https://arxiv.org/pdf/2312.13558) | [GitHub](https://github.com/pratyushasharma/laser) | ICLR 24 |  21 Dec 2023  |  |
@@ -64,12 +67,16 @@ Whether you're a researcher, developer, or enthusiast, this repository serves as
 | Large Language Models Can Learn Temporal Reasoning  | [arXiv](https://arxiv.org/pdf/2401.06853) | [GitHub](https://github.com/xiongsiheng/TG-LLM) | ACL 24 |  11 Jun 2024   |  |
 | Flow of Reasoning: Efficient Training of LLM Policy with Divergent Thinking | [arXiv](https://arxiv.org/pdf/2406.05673) | [GitHub](https://github.com/Yu-Fangxu/FoR) | arXiv | 24 Jun 2024  |  |
 | Tree Search for Language Model Agents | [arXiv](https://arxiv.org/pdf/2407.01476) | [GitHub](https://github.com/kohjingyu/search-agents)  | arXiv | 1 Jul 2024 | [Project](https://jykoh.com/search-agents) |
+| Tree-Planner: Efficient Close-loop Task Planning with Large Language Models | [arXiv](https://arxiv.org/pdf/2310.08582) | [GitHub](https://github.com/Aaron617/tree-planner)  | ICLR 24 | 24 Jul 2024 | [Project](https://tree-planner.github.io/) |
 | RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning  | [arXiv](https://arxiv.org/pdf/2408.03195v1) | -- | arXiv |  6 Aug 2024  |  |
+| Automating Thought of Search: A Journey Towards Soundness and Completeness  | [arXiv](https://arxiv.org/pdf/2408.11326) | -- | arXiv |  21 Aug 2024  |  |
 
 ## Reasoning Limitations
 
 | Paper | Link | Code | Venue | Date | Other |
 |-------|------|------|-------|------|-------|
+| Understanding the Capabilities of Large Language Models for Automated Planning | [arXiv](https://arxiv.org/pdf/2305.16151)| -- | arXiv | 25 May 2023 | |
+| Evaluating Cognitive Maps and Planning in Large Language Models with CogEval | [arXiv](https://openreview.net/pdf?id=VtkGvGcGe3)| [GitHub](https://github.com/cogeval/cogmaps) | NeurIPS 23 | 2 Nov 2023 | |
 | On the Planning Abilities of Large Language Models : A Critical Investigation | [arXiv](https://arxiv.org/pdf/2305.15771)| [GitHub](https://github.com/karthikv792/LLMs-Planning?utm_source=catalyzex.com) | NeurIPS 23 | 6 Nov 2023 | |
 | Large Language Models Cannot Self-Correct Reasoning Yet | [arXiv](https://arxiv.org/pdf/2310.01798) | -- | ICLR 24 | 14 Mar 2024  |  |
 | Dissociating language and thought in large language models | [arXiv](https://arxiv.org/pdf/2301.06627) | -- | Trends in Cognitive Sciences | 23 Mar 2024 |  |
@@ -93,15 +100,19 @@ Whether you're a researcher, developer, or enthusiast, this repository serves as
 | Paper | Link | Code | Venue | Date | Other |
 |-------|------|------|-------|------|-------|
 | Benchmarks for Automated Commonsense Reasoning: A Survey  | [arXiv](https://arxiv.org/pdf/2302.04752)| -- | arXiv | 22 Feb 2023 | |
+| BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology | [arXiv](https://arxiv.org/pdf/2310.10632) | [GitHub](https://github.com/bioplanner/bioplanner)  | EMNLP 24 | 16 Oct 2023  |  |
+| AgentBench: Evaluating LLMs as Agents | [arXiv](https://arxiv.org/pdf/2308.03688) | [GitHub](https://github.com/THUDM/AgentBench)  | ICLR 24 | 25 Oct 2023  |  |
 | PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change | [arXiv](https://arxiv.org/pdf/2206.10498) | [GitHub](https://github.com/karthikv792/LLMs-Planning?utm_source=catalyzex.com) | NeurIPS 23 Track on Datasets and Benchmarks | 23 Nov 2023 |  |
 | Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena  | [arXiv](https://arxiv.org/pdf/2310.05746)| [GitHub](https://github.com/jiangjiechen/auction-arena) | arXiv | 3 Apr 2024  | [Project](https://auction-arena.github.io/) |
 | WebArena: A Realistic Web Environment for Building Autonomous Agents  | [arXiv](https://arxiv.org/pdf/2307.13854)| [GitHub](https://github.com/web-arena-x/webarena) | NeurIPS 23 Workshop | 16 Apr 2024 | [Project](https://webarena.dev/) |
 | Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning  | [arXiv](https://arxiv.org/pdf/2406.09170v1)| -- | arXiv | 3 Jun 2024 | [HuggingFace](https://huggingface.co/datasets/baharef/ToT) |
 | Open Grounded Planning: Challenges and Benchmark Construction  | [arXiv](https://arxiv.org/pdf/2406.02903)| [GitHub](https://github.com/Shiguang-Guo/Open-Grounded-Planning) | ACL 24 | 5 Jun 2024 | |
 | NATURAL PLAN: Benchmarking LLMs on Natural Language Planning   | [arXiv](https://arxiv.org/pdf/2406.04520)| -- | arXiv | 6 Jun 2024 | |
+| ResearchArena: Benchmarking LLMs’ Ability to Collect and Organize Information as Research Agents | [arXiv](https://arxiv.org/pdf/2406.10291)|  | arXiv | 13 Jun 2024 |  |
 | OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI | [arXiv](https://arxiv.org/pdf/2406.12753)| [GitHub](https://github.com/GAIR-NLP/OlympicArena) | arXiv | 22 Jun 2024 | [Project](https://gair-nlp.github.io/OlympicArena/) |
 | TravelPlanner: A Benchmark for Real-World Planning with Language Agents  | [arXiv](https://arxiv.org/pdf/2402.01622)| [GitHub](https://github.com/OSU-NLP-Group/TravelPlanner) | ICML 24 | 23 Jun 2024 | [Project](https://osu-nlp-group.github.io/TravelPlanner/) |
 | GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models  | [arXiv](https://arxiv.org/pdf/2407.02936)| [GitHub](https://github.com/ZIKEYUAN/GraCoRe) | arXiv | 3 Jul 2024 | |
+| AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents  | [arXiv](https://arxiv.org/pdf/2407.18901)| [GitHub](https://github.com/stonybrooknlp/appworld/) | ACL 24 | 26 Jul 2024 | [Project](https://appworld.dev/) [Video](https://appworld.dev/video)|
 
 
 ## Miscellaneous
@@ -109,22 +120,25 @@ Whether you're a researcher, developer, or enthusiast, this repository serves as
 | Paper | Link | Code | Venue | Date | Other |
 |-------|------|------|-------|------|-------|
 | Lost in the Middle: How Language Models Use Long Contexts | [arXiv](https://arxiv.org/pdf/2307.03172) | -- | TACL 23 | 20 Nov 2023 |  |
-| The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4 | [arXiv](https://arxiv.org/pdf/2404.19737) | --  | arXiv | 8 Dec 2023  | [project page](https://github.com/microsoft/LLM4ScientificDiscovery) |
-| Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations | [arXiv](https://arxiv.org/pdf/2312.08935) | -- | ACL 24 | 19 Feb 2024 | [project page](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac?pvs=4) |
+| The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4 | [arXiv](https://arxiv.org/pdf/2311.07361) | --  | arXiv | 8 Dec 2023  | [Project](https://github.com/microsoft/LLM4ScientificDiscovery) |
+| Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations | [arXiv](https://arxiv.org/pdf/2312.08935) | -- | ACL 24 | 19 Feb 2024 | [Project](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac?pvs=4) |
 | Better & Faster Large Language Models via Multi-token Prediction | [arXiv](https://arxiv.org/pdf/2404.19737) | -- | arXiv | 30 Apr 2024 | [Video](https://www.youtube.com/watch?v=oJYA6mkMXwg) [HuggingFace](https://huggingface.co/facebook/multi-token-prediction)|
 | Learning Iterative Reasoning through Energy Diffusion | [arXiv](https://arxiv.org/pdf/2406.11179) | [GitHub](https://github.com/yilundu/ired_code_release) | ICML 24 | 17 Jun 2024 | [Project](https://energy-based-model.github.io/ired/) |
-| Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data | [arXiv](https://arxiv.org/pdf/2406.14546) |  [GitHub](https://github.com/choidami/inductive-oocr) | arXiv | 20 Jun 2024 |  
+| Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data | [arXiv](https://arxiv.org/pdf/2406.14546) |  [GitHub](https://github.com/choidami/inductive-oocr) | arXiv | 20 Jun 2024 |
 | What's the Magic Word? A Control Theory of LLM Prompting | [arXiv](https://arxiv.org/pdf/2310.04444) | -- | arXiv | 3 Jul 2024 |  ||
 | AGENTGEN: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation| [arXiv](https://arxiv.org/pdf/2408.00764) | --  | arXiv | 1 Aug 2024 |  |
+| Generative Verifiers: Reward Modeling as Next-Token Prediction | [arXiv](https://arxiv.org/pdf/2408.15240) | --  | arXiv | 27 Aug 2024 |  |
 
 
 ## Additional Resources
 
 | Resource | Link |
 |-------|------|
-| Yochan Tutorials on Large Language Models and Planning | [link](https://yochan-lab.github.io/tutorial/LLMs-Planning/index.html) 
-| On The Capabilities and Risks of Large Language Models | [link](https://jeffhj.github.io/files/dissertation.pdf) 
+| Yochan Tutorials on Large Language Models and Planning | [link](https://yochan-lab.github.io/tutorial/LLMs-Planning/index.html)
+| On The Capabilities and Risks of Large Language Models | [link](https://jeffhj.github.io/files/dissertation.pdf)
 | Large Language Models for Reasoning | [link](https://sites.google.com/view/cs-159-2024/home?authuser=0)
+| LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models | [link](https://www.llm-reasoners.net/)
+| Physics of Language Models | [link](https://physics.allen-zhu.com/home)
 
 
 ## Acknowledgement
