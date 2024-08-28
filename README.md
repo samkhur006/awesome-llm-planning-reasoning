@@ -76,6 +76,7 @@ Whether you're a researcher, developer, or enthusiast, this repository serves as
 | Paper | Link | Code | Venue | Date | Other |
 |-------|------|------|-------|------|-------|
 | Understanding the Capabilities of Large Language Models for Automated Planning | [arXiv](https://arxiv.org/pdf/2305.16151)| -- | arXiv | 25 May 2023 | |
+| Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond | [arXiv](https://arxiv.org/pdf/2306.09841)| [GitHub](https://github.com/DeepReasoning/NeuLR) | arXiv | 8 Aug 2023 | |
 | Evaluating Cognitive Maps and Planning in Large Language Models with CogEval | [arXiv](https://openreview.net/pdf?id=VtkGvGcGe3)| [GitHub](https://github.com/cogeval/cogmaps) | NeurIPS 23 | 2 Nov 2023 | |
 | On the Planning Abilities of Large Language Models : A Critical Investigation | [arXiv](https://arxiv.org/pdf/2305.15771)| [GitHub](https://github.com/karthikv792/LLMs-Planning?utm_source=catalyzex.com) | NeurIPS 23 | 6 Nov 2023 | |
 | Large Language Models Cannot Self-Correct Reasoning Yet | [arXiv](https://arxiv.org/pdf/2310.01798) | -- | ICLR 24 | 14 Mar 2024  |  |
