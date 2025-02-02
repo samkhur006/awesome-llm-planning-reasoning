@@ -70,6 +70,7 @@ Whether you're a researcher, developer, or enthusiast, this repository serves as
 | Tree-Planner: Efficient Close-loop Task Planning with Large Language Models | [arXiv](https://arxiv.org/pdf/2310.08582) | [GitHub](https://github.com/Aaron617/tree-planner)  | ICLR 24 | 24 Jul 2024 | [Project](https://tree-planner.github.io/) |
 | RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning  | [arXiv](https://arxiv.org/pdf/2408.03195v1) | -- | arXiv |  6 Aug 2024  |  |
 | Automating Thought of Search: A Journey Towards Soundness and Completeness  | [arXiv](https://arxiv.org/pdf/2408.11326) | -- | arXiv |  21 Aug 2024  |  |
+| MACI: Multi-Agent Collaborative Intelligence for Adaptive Reasoning and Temporal Planning | [arXiv](https://arxiv.org/abs/2501.16689) | -- | arXiv | 29 Jan 2025 | | 
 
 ## Reasoning Limitations
 
