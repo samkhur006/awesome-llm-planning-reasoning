@@ -15,6 +15,10 @@
 
 ---
 
+## Announcements
+
+02/27/2025 - Our papers on improving LLM Reasoning and Planning have been released - https://arxiv.org/abs/2502.12521, and https://arxiv.org/abs/2502.19295. 
+
 ## About
 
 
@@ -154,7 +158,32 @@ Together, we can make Awesome LLMs for Planning and Reasoning **better**!
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
+##
 
+If you found this repository useful, please consider citing our papers:
+```
+@misc{2025Sys2BenchLLM,
+      title={Inference-Time Computations for LLM Reasoning and Planning: A Benchmark and Insights}, 
+      author={Shubham Parashar and Blake Olson and Sambhav Khurana and Eric Li and Hongyi Ling and James Caverlee and Shuiwang Ji},
+      year={2025},
+      eprint={2502.12521},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2502.12521}, 
+}
+```
+
+```
+@misc{ling2025complexllmplanningautomated,
+      title={Complex LLM Planning via Automated Heuristics Discovery}, 
+      author={Hongyi Ling and Shubham Parashar and Sambhav Khurana and Blake Olson and Anwesha Basu and Gaurangi Sinha and Zhengzhong Tu and James Caverlee and Shuiwang Ji},
+      year={2025},
+      eprint={2502.19295},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2502.19295}, 
+}
+``` 
 ## Authors & contributors
 
 The original setup of this repository is by [Sambhav Khurana](https://github.com/samkhur006).
