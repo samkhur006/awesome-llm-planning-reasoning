@@ -158,7 +158,7 @@ Together, we can make Awesome LLMs for Planning and Reasoning **better**!
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
-##
+## Citation
 
 If you found this repository useful, please consider citing our papers:
 ```
@@ -174,7 +174,7 @@ If you found this repository useful, please consider citing our papers:
 ```
 
 ```
-@misc{ling2025complexllmplanningautomated,
+@misc{ling2025autohd,
       title={Complex LLM Planning via Automated Heuristics Discovery}, 
       author={Hongyi Ling and Shubham Parashar and Sambhav Khurana and Blake Olson and Anwesha Basu and Gaurangi Sinha and Zhengzhong Tu and James Caverlee and Shuiwang Ji},
       year={2025},
